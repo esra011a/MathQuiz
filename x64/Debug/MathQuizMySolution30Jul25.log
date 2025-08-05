@@ -1,0 +1,4 @@
+﻿  MathQuizMySolution30Jul25.cpp
+C:\Users\96655\Downloads\VS projects\MathQuizMySolution30Jul25\MathQuizMySolution30Jul25.cpp(79): warning C4715: 'RandomRangeNumber': not all control paths return a value
+C:\Users\96655\Downloads\VS projects\MathQuizMySolution30Jul25\MathQuizMySolution30Jul25.cpp(139): warning C4715: 'WhatRealAnswer': not all control paths return a value
+  MathQuizMySolution30Jul25.vcxproj -> C:\Users\96655\Downloads\VS projects\MathQuizMySolution30Jul25\x64\Debug\MathQuizMySolution30Jul25.exe
