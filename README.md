@@ -105,5 +105,5 @@ Or use your preferred IDE to build and run.
 ## 👩‍💻 Author
 
 **Esraa Fahad Alharbi**  
-Computer Science Graduate | Web Development | Data Analysis | C++ Lover  
+Computer Science Graduate | Web Development  
 📍 Based in Al-Madinah, Saudi Arabia
